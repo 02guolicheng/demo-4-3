@@ -7,6 +7,7 @@ int main()
     printf("I love you\n");
     printf("10:58:06\n");
     printf("2025年4月3日12:21:35\n");
+    printf("2025年4月3日16:06\n");
     return 0;
 
 }
