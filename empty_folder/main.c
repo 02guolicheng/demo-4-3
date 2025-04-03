@@ -1,12 +1,12 @@
-//´òÓ¡hello world
+//æ‰“å°hello world
 #include <stdio.h>
 int main()
 {
     printf("hello world\n");
-    //´òÓ¡ I love you
+    //æ‰“å°I love you
     printf("I love you\n");
     printf("10:58:06\n");
-    printf("2025Äê4ÔÂ3ÈÕ12:13:20\n");
+    printf("2025å¹´4æœˆ3æ—¥12:21:35\n");
     return 0;
 
 }
